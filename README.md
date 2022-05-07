@@ -40,7 +40,6 @@ cd Library
 
 npm install
 npm run build
-if you got error just type " npm audit fix" in terminal/cmd
 npm start
 Hurray!!! You are now good to go.
 ```
