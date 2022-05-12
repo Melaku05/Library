@@ -69,3 +69,7 @@ Give a ⭐️ if you like this project!
 - My standup team
 - Microverse team
 - My family's support
+
+ ## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
